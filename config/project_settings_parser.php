@@ -24,7 +24,7 @@ function usage()
 echo<<<EOF
 Usage: {$scriptName} [parameter]
 
-requred parameters:
+reqiured parameters:
     --server_name   - virtual host name
 EOF;
     echo "\n";
